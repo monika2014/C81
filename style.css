@@ -1,0 +1,8 @@
+.body-background{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmApWYwkbQKlfaxksDXh7_loEkF6PWVxDBxh1ik6dnuW4WAyZiCznCLUj0iyXDKUc2i7s&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+#circle_canvas{
+    background-color: white;
+}
