@@ -13,9 +13,9 @@ ctx.lineWidth = 2;
 ctx.arc(30, 200, 40 ,0 , 2*Math.PI);
 ctx.stroke();
 
-canvas.addEventListener("mousedown", my_mousedown);
+canvas.addEventListener("mousedown", emousedown);
 
-function my_mousedown(e)
+function emousedown(e)
 {
     
     color = document.getElementById("color_input").value;
